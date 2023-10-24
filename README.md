@@ -1,2 +1,2 @@
-# test-repository
-repositorio de test
+# Repositoiro de ejemplo
+Repositorio de test para IS
